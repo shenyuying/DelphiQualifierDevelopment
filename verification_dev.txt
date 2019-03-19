@@ -1,0 +1,6 @@
+Version 3.30,https://testbaic.control-tec.cn/login.action,10.50.0.57,Qualifier_BAIC.war,/var/lib/tomcat8/baic/ROOT.war
+Version 3.30,https://testdelphi.control-tec.cn/login.action,10.50.0.57,Qualifier_DELPHICHINA.war,/var/lib/tomcat8/delphi/ROOT.war
+Version 3.30,https://testgeely.control-tec.cn/login.action,10.50.0.57,Qualifier_GEELY.war,/var/lib/tomcat8/geely/ROOT.war
+Version 3.30,https://testsales.control-tec.cn/login.action,10.50.0.57,Qualifier_SALESCHINA.war,/var/lib/tomcat8/sales/ROOT.war
+Version 3.30,https://testghac.control-tec.cn/login.action,10.50.0.57,Qualifier_GHAC.war,/var/lib/tomcat8/ghac/ROOT.war
+Version 3.30,https://testchangan.control-tec.cn/login.action,10.50.0.57,Qualifier_CHANGAN.war,/var/lib/tomcat8/changan/ROOT.war
