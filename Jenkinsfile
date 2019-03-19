@@ -5,6 +5,7 @@ pipeline {
       steps {
         sh '''echo "Hello World!"
 echo $PATH'''
+        sh 'python ./precheck.py'
       }
     }
     stage('Preparation') {
