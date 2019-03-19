@@ -14,7 +14,7 @@ echo $PATH'''
     }
     stage('deployLeopard1') {
       steps {
-        sh 'echo "Deployment"'
+        sh 'echo "Deployment1"'
       }
     }
     stage('Verification') {
